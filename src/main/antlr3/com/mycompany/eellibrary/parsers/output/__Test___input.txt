@@ -1,0 +1,1 @@
+(lol.pd eq "dong") and ( nit neq 15.3 ) or ( fuk.da eq 2 )
